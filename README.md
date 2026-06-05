@@ -17,12 +17,12 @@ Hamtopia começou como uma ideia de presente de aniversário, aos poucos, foi vi
 
 Durante esse processo, eu passei aproximadamente:
 
-📌 250+ prompts
-🎨 180+ imagens geradas
-🖼️ 100+ rodadas de ajustes visuais
-📝 15+ revisões de regras, balanceamento e explicações
-📖 10+ versões/ajustes do manual
-🌟 15+ ajustes de logo e identidade visual
+📌 250+ prompts<br>
+🎨 180+ imagens geradas<br>
+🖼️ 100+ rodadas de ajustes visuais<br>
+📝 15+ revisões de regras, balanceamento e explicações<br>
+📖 10+ versões/ajustes do manual<br>
+🌟 15+ ajustes de logo e identidade visual<br>
 
 
 Além disso, foram criados vários arquivos de apoio, como artes em PNG, PDFs, cartas, logo, embalagem e outros materiais para deixar o jogo pronto para existir fora da tela.
@@ -33,7 +33,7 @@ Apesar de eu ter usado bastante o ChatGPT durante o processo, eu considero que o
 
 A divisão foi:
 
-💛 85% ideias minhas
+💛 85% ideias minhas<br>
 🤖 15% apoio do ChatGPT
 
 ✨
