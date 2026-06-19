@@ -13,9 +13,9 @@
 
 🐹 Hamtopia em números 🎲
 
-Hamtopia começou como uma ideia de presente de aniversário, aos poucos, foi virando um projetinho muito maior do que eu imaginava (e entregue com muito atraso e.e). Comecei a desenvolver o jogo com apoio do ChatGPT no início de abril de 2026 e fui lapidando tudo até finalizar toda a parte criativa no início de junho de 2026.
+Hamtopia começou como uma ideia de presente de aniversário, aos poucos, foi virando um projetinho muito maior do que eu imaginava (e entregue com muito atraso e.e). Comecei a desenvolver o jogo com apoio do ChatGPT no início de abril de 2026 e fui lapidando tudo até finalizar toda a parte criativa no final de maio de 2026.
 
-Durante esse processo, eu passei aproximadamente:
+Durante esse processo,foram feitos aproximadamente:
 
 📌 250+ prompts<br>
 🎨 180+ imagens geradas<br>
@@ -37,6 +37,6 @@ A divisão foi:
 🤖 15% apoio do ChatGPT
 
 ✨
-Parte das regras do jogo, nome do jogo, tema dos hamsters, o estilo fofo, as referências, a direção visual, os personagens, as correções, os testes e as decisões finais vieram de mim.
+Ajustes das regras, nome do jogo, tema dos hamsters, o estilo fofo, as referências, a direção visual, os personagens, os testes e as decisões finais vieram de mim.
 
-O ChatGPT entrou como uma ferramenta de apoio no processo: ajudou a organizar ideias, estruturar regras, escrever textos, criar prompts, sugerir ajustes, refinar o visual e principalmente, transformar minhas ideias em algo concreto e pronto para imprimir. 🐹💛
+O ChatGPT entrou como uma ferramenta de apoio no processo: ajudou a organizar ideias, estruturar regras, escrever textos, criar prompts, gerar as imagens, sugerir ajustes, refinar o visual e principalmente, transformar minhas ideias em algo concreto, pronto para imprimir e se tornar palpável. 🐹💛
